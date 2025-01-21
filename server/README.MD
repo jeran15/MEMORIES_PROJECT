@@ -4,3 +4,6 @@
     - cors : Enable cross origin request
     - mongoose : create model for out POST
     - nodemon : authomaticaly restart our server
+
+# MongoDB 
+    - we are using mongodb.com/cloud/atles - it mean we host there
